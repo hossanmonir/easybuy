@@ -33,7 +33,7 @@
 .page.hide-title-area #Content,.no-content-padding #Content,.template-blank #Content,.under-construction #Content{padding:0!important}
 .with_aside.page.hide-title-area .sections_group,.with_aside.no-content-padding .sections_group{padding:0!important}
 .under-construction .section-uc-1{padding-top:40px;background-color:#fff}
-.under-construction .section-uc-2{padding-top:40px;background-color:#f5f5f5;background:url(../images/stripes/stripes_3_b.png) repeat center}
+.under-construction .section-uc-2{padding-top:40px;background-color:#f5f5f5;background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/stripes/stripes_3_b.png) repeat center}
 .under-construction .section-uc-3{padding-top:40px}
 .under-construction .section-border-top{border-top:1px solid rgba(0,0,0,0.08)}
 
@@ -59,7 +59,7 @@ body.nice-scroll:not(.layout-boxed){padding-right:10px!important}
 
 /* Sliding top ----------------------------------------------------------------------- */
 #Sliding-top{position:absolute;left:0;top:0;width:100%;z-index:800}
-#Sliding-top:after{content:"";height:3px;width:100%;display:block;position:absolute;left:0;bottom:-3px;z-index:1;background:url(../images/box_shadow.png) repeat-x left top}
+#Sliding-top:after{content:"";height:3px;width:100%;display:block;position:absolute;left:0;bottom:-3px;z-index:1;background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/box_shadow.png) repeat-x left top}
 #Sliding-top .widgets_wrapper{padding:15px 0;display:none}
 #Sliding-top .widgets_wrapper .column{margin-bottom:0}
 #Sliding-top .widgets_wrapper .widget{margin-bottom:0;padding:15px 0}
@@ -84,7 +84,7 @@ body.nice-scroll:not(.layout-boxed){padding-right:10px!important}
 /* Pager ----------------------------------------------------------------------------- */
 .pager_wrapper{margin-bottom:0}
 .pager{text-align:center}
-.pager .pages{display:inline-block;margin:20px 30px 0;padding:4px 3px;-webkit-border-radius:5px;border-radius:5px;background-color:#f8f8f8;background-image:url(../images/stripes/stripes_3_b.png)}
+.pager .pages{display:inline-block;margin:20px 30px 0;padding:4px 3px;-webkit-border-radius:5px;border-radius:5px;background-color:#f8f8f8;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/stripes/stripes_3_b.png)}
 .pager .pages a,.pager .pages span.page-numbers{display:inline-block;margin:0 1px;width:35px;height:35px;line-height:35px;text-align:center;-webkit-border-radius:5px;border-radius:5px}
 .pager .pages a:hover{text-decoration:none}
 .pager .pages a:hover,.pager .pages a.active,.pager .pages span.page-numbers.current{color:#fff}
@@ -92,7 +92,7 @@ body.nice-scroll:not(.layout-boxed){padding-right:10px!important}
 .pager .pages a{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
 
 /* Load more button ------------------------------------------------------------------ */
-.pager_lm{background:url(../images/preloader.gif) no-repeat center 17px;text-align:center}
+.pager_lm{background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/preloader.gif) no-repeat center 17px;text-align:center}
 .pager_lm .pager_load_more{margin:20px 0}
 .pager_lm.loading{min-height:49px}
 .pager_lm:not(.loading){background:none}
@@ -126,9 +126,9 @@ body.nice-scroll:not(.layout-boxed){padding-right:10px!important}
 
 .fixed-nav .photo,.fixed-nav .desc{transition:all .3s ease-in-out}
 .fixed-nav.format-quote .desc{display:none}
-.fixed-nav.format-quote .photo{background-color:#eee;background-image:url(../images/blockquote.png);background-position:center center;background-repeat:no-repeat;background-size:50% auto}
+.fixed-nav.format-quote .photo{background-color:#eee;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/blockquote.png);background-position:center center;background-repeat:no-repeat;background-size:50% auto}
 .fixed-nav.format-link .photo img{display:none}
-.fixed-nav.format-link .photo{background-color:#eee;background-image:url(../images/link.png);background-position:center center;background-repeat:no-repeat}
+.fixed-nav.format-link .photo{background-color:#eee;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/link.png);background-position:center center;background-repeat:no-repeat}
 
 @media only screen and (max-width: 1430px) {
 	.fixed-nav-prev .photo{position:static;margin-left:-115px}
@@ -161,7 +161,7 @@ body.nice-scroll:not(.layout-boxed){padding-right:10px!important}
 
 /* Filters --------------------------------------------------------------------------- */
 #Filters{margin-bottom:30px}
-#Filters .filters_buttons{padding:15px;margin:0;font-size:100%;background-image:url(../images/stripes/stripes_5_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:hidden}
+#Filters .filters_buttons{padding:15px;margin:0;font-size:100%;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/stripes/stripes_5_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:hidden}
 #Filters .filters_buttons li{float:left;margin:0 15px 0 0;list-style:none}
 #Filters .filters_buttons li.categories i,#Filters .filters_buttons li.tags i{margin-right:3px}
 #Filters .filters_buttons li.reset{float:right;margin-right:0}
@@ -306,7 +306,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header{min-height:90p
 
 	/* Top Bar | Right */
 	#Top_bar .top_bar_right{float:right;height:90px;position:relative;top:-4px;padding:0 10px 0 20px}
-	#Top_bar .top_bar_right:before{content:"";display:block;height:100%;width:10px;position:absolute;left:-10px;top:2px;background-image:url(../images/top_bar_right_shadow.png);background-repeat:repeat-y;-moz-transform:skewX(0deg) skewY(-25deg);-webkit-transform:skewX(0deg) skewY(-25deg);-o-transform:skewX(0deg) skewY(-25deg);-ms-transform:skewX(0deg) skewY(-25deg);transform:skewX(0deg) skewY(-25deg)}
+	#Top_bar .top_bar_right:before{content:"";display:block;height:100%;width:10px;position:absolute;left:-10px;top:2px;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/top_bar_right_shadow.png);background-repeat:repeat-y;-moz-transform:skewX(0deg) skewY(-25deg);-webkit-transform:skewX(0deg) skewY(-25deg);-o-transform:skewX(0deg) skewY(-25deg);-ms-transform:skewX(0deg) skewY(-25deg);transform:skewX(0deg) skewY(-25deg)}
 	.ie #Top_bar .top_bar_right:before{width:11px}
 	#Top_bar .top_bar_right_wrapper{position:relative;top:25px}
 
@@ -385,7 +385,7 @@ body.minimalist-header.header-below:not(.template-slider) #Header{min-height:90p
 #Top_bar.is-sticky .menu_wrapper .menu.page-menu > li > a {margin:0;padding-left:20px;padding-right:20px;}
 
 /* 2nd level */
-#Top_bar .menu li ul{position:absolute;left:0;top:100%;z-index:205;margin:0;display:none;background-image:url(../images/box_shadow.png);background-repeat:repeat-x;background-position:left top}
+#Top_bar .menu li ul{position:absolute;left:0;top:100%;z-index:205;margin:0;display:none;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/box_shadow.png);background-repeat:repeat-x;background-position:left top}
 #Top_bar .menu li > ul{box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03);-webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03)}
 #Top_bar .menu li ul li{padding:0;width:200px;position:relative;font-weight:400}
 #Top_bar .menu li ul li a{padding:10px 20px;display:block;border-bottom:1px solid rgba(0,0,0,0.05)}
@@ -729,7 +729,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 #Subheader ul.breadcrumbs li{display:inline-block}
 #Subheader ul.breadcrumbs li,#Subheader ul.breadcrumbs li a{color:rgba(0,0,0,.3)}
 #Subheader ul.breadcrumbs li span{margin:0 10px;opacity:.4;filter:alpha(opacity=40)}
-#Subheader:after{content:"";height:3px;width:100%;display:block;position:absolute;left:0;bottom:-3px;z-index:1;background:url(../images/box_shadow.png) repeat-x left top}
+#Subheader:after{content:"";height:3px;width:100%;display:block;position:absolute;left:0;bottom:-3px;z-index:1;background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/box_shadow.png) repeat-x left top}
 #Subheader ul.woocommerce-breadcrumb li:last-child span{display:none}
 
 	/* style */
@@ -853,7 +853,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 		.masonry.tiles { position: relative; }
 		.masonry.tiles .post-item { margin: 0 !important; overflow: hidden; background-color: transparent; }
 		.masonry.tiles .post-item:not(.no-img) .post-desc-wrapper { position: absolute; z-index: 4; left: 0; bottom: -20px; }
-		.masonry.tiles .post-item:not(.no-img) .post-desc-wrapper .post-desc { background: url(../images/blog_masonry_tile_gradient.png) top left repeat-x; padding: 70px 30px 30px; }
+		.masonry.tiles .post-item:not(.no-img) .post-desc-wrapper .post-desc { background: url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/blog_masonry_tile_gradient.png) top left repeat-x; padding: 70px 30px 30px; }
 		.masonry.tiles .post-item .post-desc-wrapper .post-desc { padding: 50% 30px 10px; }
 		.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-meta .author-date .post-links { display: inline-block; margin-left: 10px; }
 		.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-excerpt { display: none; }
@@ -913,7 +913,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 			.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-excerpt { color: rgba(255,255,255,.7); }
 
 		/* Timeline */
-		.timeline .post-item { float:none; width:auto; padding-left: 200px; margin-bottom: 0; padding-bottom: 40px; background: url(../images/timeline_right.png) no-repeat 90px top; }
+		.timeline .post-item { float:none; width:auto; padding-left: 200px; margin-bottom: 0; padding-bottom: 40px; background: url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/timeline_right.png) no-repeat 90px top; }
 		.timeline .post-item:last-child { padding-bottom: 20px; margin-bottom: 20px; }
 		.timeline .format-quote .post-meta,
 		.timeline .format-link .post-meta { padding-top: 7px; }
@@ -965,7 +965,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 	.format-link .post-title .link-wrapper h4{margin-bottom:7px;font-size:20px;line-height:22px}
 
 /* Single Post ----------------------------------------------------------------------- */
-.post-nav{padding:10px 15px 4px 130px;margin-bottom:20px;background-image:url(../images/stripes/stripes_5_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:hidden}
+.post-nav{padding:10px 15px 4px 130px;margin-bottom:20px;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/stripes/stripes_5_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:hidden}
 .post-nav .next-prev-nav{float:left}
 .post-nav .next-prev-nav li{float:left;margin-right:5px}
 .post-nav .next-prev-nav a.button{margin:0;padding:0!important}
@@ -1046,8 +1046,8 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 	.section-post-related .post-related a.button{margin-left:30px;margin-bottom:0}
 
 	.section-post-related .format-quote blockquote{margin-top:70px;margin-left:40px}
-	.section-post-related .format-link .image_frame{height:180px;background-color:rgba(255,255,255,.5);background-image:url(../images/link.png);background-position:center center;background-repeat:no-repeat}
-	.section-post-related .format-standard.no-img .image_frame{display:block;height:180px;background-color:rgba(255,255,255,.5);background-image:url(../images/photo.png);background-position:center center;background-repeat:no-repeat}
+	.section-post-related .format-link .image_frame{height:180px;background-color:rgba(255,255,255,.5);background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/link.png);background-position:center center;background-repeat:no-repeat}
+	.section-post-related .format-standard.no-img .image_frame{display:block;height:180px;background-color:rgba(255,255,255,.5);background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/photo.png);background-position:center center;background-repeat:no-repeat}
 	.section-post-related .post-related .image_frame iframe{width:100%}
 
 		/* Section post related - simple */
@@ -1162,8 +1162,8 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 	.Recent_posts.classic ul li a:hover .desc:after{width:100%}
 
 		/* Formats */
-		.Recent_posts ul li.format-link .photo{background-color:#eee;background-image:url(../images/link.png);background-position:center center;background-repeat:no-repeat}
-		.Recent_posts ul li.format-quote .photo{background-color:#eee;background-image:url(../images/blockquote.png);background-position:center center;background-repeat:no-repeat;background-size:40% auto}
+		.Recent_posts ul li.format-link .photo{background-color:#eee;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/link.png);background-position:center center;background-repeat:no-repeat}
+		.Recent_posts ul li.format-quote .photo{background-color:#eee;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/blockquote.png);background-position:center center;background-repeat:no-repeat;background-size:40% auto}
 
 		/* Recent posts | style: blog news */
 		.Recent_posts.blog_news ul li{margin-bottom:20px;overflow:hidden}
@@ -1212,7 +1212,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 
 	/* Recent comments */
 	.widget_mfn_recent_comments ul{margin:0!important}
-	.widget_mfn_recent_comments ul li{padding-bottom:15px;margin-bottom:0!important;background:url(../images/recent_comments.png) no-repeat 4px top;padding-left:40px;position:relative;list-style:none!important}
+	.widget_mfn_recent_comments ul li{padding-bottom:15px;margin-bottom:0!important;background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/recent_comments.png) no-repeat 4px top;padding-left:40px;position:relative;list-style:none!important}
 	.widget_mfn_recent_comments ul li:last-child{padding-bottom:5px}
 	.widget_mfn_recent_comments ul li .date_label{background-color:rgba(0,0,0,.03);margin-top:7px;margin-bottom:5px;position:relative}
 	.widget_mfn_recent_comments ul li .date_label:after{border-left-color:rgba(0,0,0,.03)}
@@ -1220,7 +1220,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 	.widget_mfn_recent_comments ul li p{margin-bottom:0}
 
 	/* Recent comments wordpress */
-	.widget_recent_comments ul li{padding-bottom:5px;padding-top:6px;background:url(../images/recent_comments.png) no-repeat 4px top;padding-left:40px;position:relative}
+	.widget_recent_comments ul li{padding-bottom:5px;padding-top:6px;background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/recent_comments.png) no-repeat 4px top;padding-left:40px;position:relative}
 	.widget_recent_comments ul li:last-child{padding-bottom:5px}
 	.widget_recent_comments ul li:after{content:"";width:7px;height:7px;border-width:4px;border-style:solid;-webkit-border-radius:100%;border-radius:100%;position:absolute;left:0;top:11px;display:block;z-index:1}
 
@@ -1562,7 +1562,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 #comments .commentlist > li .comment-meta a.comment-edit-link{float:right;padding-right:52px;position:relative;top:-19px}
 #comments .commentlist > li p{margin:4px 0 10px}
 #comments .commentlist > li .reply{position:absolute;right:20px;top:20px}
-#comments .commentlist > li .reply a.comment-reply-link{font-size:11px;color:#fff;padding:3px 6px;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:3px;background-image:url(../images/stripes/stripes_10_w.png)}
+#comments .commentlist > li .reply a.comment-reply-link{font-size:11px;color:#fff;padding:3px 6px;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:3px;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/stripes/stripes_10_w.png)}
 #comments .commentlist > li .reply a:hover.comment-reply-link{text-decoration:none}
 #comments .commentlist li .comment-body.lastBorder{border-bottom:0}
 #comments .commentlist .children{margin-bottom:0;margin-left:30px;padding-left:50px}
@@ -1615,7 +1615,7 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 /* Video Section --------------------------------------------------------------------- */
 .section.has-video{position:relative;overflow:hidden}
 .section.has-video .section_video{position:absolute;top:0;left:0;min-height:100%;min-width:100%;overflow:hidden;z-index:1}
-.section.has-video .section_video .mask{position:absolute;top:0;left:0;height:100%;width:100%;z-index:3;background:url(../images/videomask.png) repeat center}
+.section.has-video .section_video .mask{position:absolute;top:0;left:0;height:100%;width:100%;z-index:3;background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/videomask.png) repeat center}
 .section.has-video .section_video video{position:absolute;top:0;left:0;min-height:100%;min-width:100%;z-index:2}
 .section.has-video .section_wrapper{position:relative;z-index:10}
 @media only screen and (max-device-width:1024px) {
@@ -1639,8 +1639,8 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 .dark .ui-tabs .ui-tabs-panel,.dark .accordion .question .answer{color:#626262}
 
 /* Blockquote */
-.dark blockquote{background-image:url(../images/stripes/textline_dark.png)}
-.dark blockquote:after{background-image:url(../images/blockquote_dark.png)}
+.dark blockquote{background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/stripes/textline_dark.png)}
+.dark blockquote:after{background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/blockquote_dark.png)}
 
 /* Headings font */
 .dark h1,.dark h1 a,.dark h1 a:hover{color:#fff}
@@ -1711,7 +1711,7 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 .dark .call_to_action .call_center a{color:#fff}
 
 /* Fancy heading */
-.dark .fancy_heading_line{background-image:url(../images/fancy_heading_hr_dark.png)}
+.dark .fancy_heading_line{background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/fancy_heading_hr_dark.png)}
 
 /* Content slider */
 .dark .content_slider.flat a.button .button_icon i{color:#fff}

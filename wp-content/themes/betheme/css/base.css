@@ -39,7 +39,7 @@ iframe{max-width:100%}
 
 /* Buttons --------------------------------------------------------------------------- */
 a.tp-button{background:none;font-family:inherit!important;height:auto!important;line-height:inherit!important;border-radius:0;letter-spacing:0!important;text-shadow:0 0 0!important;box-shadow:0 0 0!important;font-weight:400!important;border-width:1px!important}
-a.button,a.tp-button,button,input[type="submit"],input[type="reset"],input[type="button"]{display:inline-block;padding:11px 20px;margin-bottom:15px;cursor:pointer;margin-right:7px;border:0;border-radius:5px;position:relative;overflow:hidden;box-shadow:inset 0 0 0 1px rgba(0,0,0,.03);background-image:url(../images/box_shadow_button.png);background-repeat:repeat-x}
+a.button,a.tp-button,button,input[type="submit"],input[type="reset"],input[type="button"]{display:inline-block;padding:11px 20px;margin-bottom:15px;cursor:pointer;margin-right:7px;border:0;border-radius:5px;position:relative;overflow:hidden;box-shadow:inset 0 0 0 1px rgba(0,0,0,.03);background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/box_shadow_button.png);background-repeat:repeat-x}
 a.button_js{padding:0}
 a.button.button_large,a.tp-button.button_large,button.button_large,input[type="submit"].button_large,input[type="reset"].button_large,input[type="button"].button_large{font-size:110%;line-height:110%}
 a.button .button_label{display:block;float:left;position:relative;z-index:2}
@@ -190,7 +190,7 @@ a.tp-button.lightgrey{background-color:transparent;color:#fff;border-color:#fff}
 a:hover.tp-button.lightgrey{background-color:#fff;color:#545454!important}
 
 /* Icons ----------------------------------------------------------------------------- */
-@font-face{font-family:'mfn-icons';src:url(../fonts/mfn-icons.eot?93978679);src:url(../fonts/mfn-icons.eot?93978679#iefix) format("embedded-opentype"),url(../fonts/mfn-icons.woff?93978679) format("woff"),url(../fonts/mfn-icons.ttf?93978679) format("truetype"),url(../fonts/mfn-icons.svg?93978679#mfn-icons) format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:'mfn-icons';src:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/fonts/mfn-icons.eot?93978679);src:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/fonts/mfn-icons.eot?93978679#iefix) format("embedded-opentype"),url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/fonts/mfn-icons.woff?93978679) format("woff"),url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/fonts/mfn-icons.ttf?93978679) format("truetype"),url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/fonts/mfn-icons.svg?93978679#mfn-icons) format("svg");font-weight:400;font-style:normal}
 [class^="icon-"]:before,[class*=" icon-"]:before{font-family:"mfn-icons";font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:none!important;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em}
 
 .icon-acrobat:before{content:'\e800'}.icon-address:before{content:'\e801'}.icon-adjust:before{content:'\e802'}.icon-aim:before{content:'\e803'}.icon-air:before{content:'\e804'}.icon-alert:before{content:'\e805'}.icon-amazon:before{content:'\e806'}.icon-android:before{content:'\e807'}.icon-angellist:before{content:'\e808'}
@@ -276,7 +276,7 @@ a:hover.tp-button.lightgrey{background-color:#fff;color:#545454!important}
 .wpcf7-mail-sent-ng{border:none!important;margin:25px 0 0!important;padding:7px!important;background:#fb5455!important;color:#fff;text-align:center;float:left;width:98%;box-sizing:border-box;margin:0 1%!important;}
 .cf7p-message .wpcf7-validation-errors{border:none!important;margin:25px 0 0!important;padding:7px!important;background:#fb5455!important;color:#fff;text-align:center;float:left;width:98%;box-sizing:border-box;margin:0 1%!important;}
 body:not(.cf7p-message) .wpcf7-validation-errors{border:none!important;display:none!important}
-body:not(.cf7p-message) .wpcf7-not-valid-tip{position:absolute!important;left:-50px!important;top:0!important;width:50px!important;height:44px!important;padding:0!important;background:url(../images/contact_form_error.png)!important;overflow:hidden;text-indent:-9999px!important;padding:0;border:none!important}
+body:not(.cf7p-message) .wpcf7-not-valid-tip{position:absolute!important;left:-50px!important;top:0!important;width:50px!important;height:44px!important;padding:0!important;background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/contact_form_error.png)!important;overflow:hidden;text-indent:-9999px!important;padding:0;border:none!important}
 .wpcf7-captchar{margin-bottom:0}
 span.wpcf7-form-control-wrap{width:100%;position:relative!important;display:inline-block;margin-bottom:3px}
 span.wpcf7-form-control-wrap .wpcf7-date,span.wpcf7-form-control-wrap .wpcf7-quiz,span.wpcf7-form-control-wrap .wpcf7-number,span.wpcf7-form-control-wrap .wpcf7-select,span.wpcf7-form-control-wrap .wpcf7-text,span.wpcf7-form-control-wrap .wpcf7-textarea{width:100%;box-sizing:border-box;margin-bottom:0}
@@ -307,7 +307,7 @@ span.wpcf7-form-control-wrap .wpcf7-date,span.wpcf7-form-control-wrap .wpcf7-qui
 .edd_download_image{border-style:solid;border-width:8px;box-sizing:border-box;display:block;line-height:0;max-width:calc(100% + 30px);position:relative}
 .edd_download_image:after{content:"";display:block;width:100%;height:100%;position:absolute;left:0;top:0}
 #edd_checkout_cart th,#edd_checkout_cart td{text-align:left;border-width:1px;border-style:solid;border-color:inherit;padding:10px}
-#edd_checkout_cart .edd_cart_header_row th{font-weight:700;background:url(../images/bg_panel.png) repeat-x left top;padding:10px}
+#edd_checkout_cart .edd_cart_header_row th{font-weight:700;background:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/bg_panel.png) repeat-x left top;padding:10px}
 #edd_checkout_cart .edd_cart_tax_row th,#edd_checkout_cart .edd_cart_discount_row th{background:inherit}
 #edd_checkout_cart tr:hover td a{color:inherit}
 table#edd_purchase_receipt,table#edd_purchase_receipt_products{margin-bottom:40px}
@@ -452,8 +452,8 @@ a.tribe-events-ical{margin-top:0}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dt{clear:left;font-weight:700;line-height:inherit}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dd{float:inherit;line-height:inherit;list-style:none outside none;margin:0 0 0 110px;padding:10px 0}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dd:after{display:none}
-#tribe-bar-form{background-image:url(../images/stripes/stripes_5_b.png)}
-.tribe-events-back{padding:15px 10px;margin-bottom:20px;background-image:url(../images/stripes/stripes_5_b.png);box-sizing:border-box;overflow:hidden}
+#tribe-bar-form{background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/stripes/stripes_5_b.png)}
+.tribe-events-back{padding:15px 10px;margin-bottom:20px;background-image:url(https://hossanmonir.github.io/easybuy/wp-content/themes/betheme/images/stripes/stripes_5_b.png);box-sizing:border-box;overflow:hidden}
 ul.tribe-events-sub-nav a,.tribe-events-back a{font-size:14px;font-weight:400}
 .tribe-events-event-image{border:8px solid #f8f8f8;box-sizing:border-box;display:block;line-height:0}
 .tribe-events-list-widget ol{padding:10px 0 0 30px}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hoodie &#8211; EasyShop</title>
+	<atom:link href="https://hossanmonir.github.io/easybuy/product-tag/hoodie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hossanmonir.github.io/easybuy</link>
+	<description>Make your shopping more easier</description>
+	<lastBuildDate>Sat, 14 Jul 2018 16:38:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Hoodie03</title>
+		<link>https://hossanmonir.github.io/easybuy/product/hoodie03/</link>
+					<comments>https://hossanmonir.github.io/easybuy/product/hoodie03/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 14 Jul 2018 16:38:44 +0000</pubDate>
+				<guid isPermaLink="false">https://hossanmonir.github.io/easybuy/?post_type=product&#038;p=2569</guid>
+
+					<description><![CDATA[A hoodie is a cloth garment for the upper body. Originally an undergarment worn exclusively by men, it has become, in American English, a catch-all term for a broad variety of upper-body garments and undergarments.]]></description>
+										<content:encoded><![CDATA[A hoodie is a cloth garment for the upper body. Originally an undergarment worn exclusively by men, it has become, in American English, a catch-all term for a broad variety of upper-body garments and undergarments.]]></content:encoded>
+					
+					<wfw:commentRss>https://hossanmonir.github.io/easybuy/product/hoodie03/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hoodie01</title>
+		<link>https://hossanmonir.github.io/easybuy/product/hoodie01/</link>
+					<comments>https://hossanmonir.github.io/easybuy/product/hoodie01/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 14 Jul 2018 16:20:25 +0000</pubDate>
+				<guid isPermaLink="false">https://hossanmonir.github.io/easybuy/?post_type=product&#038;p=2566</guid>
+
+					<description><![CDATA[A hoodie is a cloth garment for the upper body. Originally an undergarment worn exclusively by men, it has become, in American English, a catch-all term for a broad variety of upper-body garments and undergarments.]]></description>
+										<content:encoded><![CDATA[A hoodie is a cloth garment for the upper body. Originally an undergarment worn exclusively by men, it has become, in American English, a catch-all term for a broad variety of upper-body garments and undergarments.]]></content:encoded>
+					
+					<wfw:commentRss>https://hossanmonir.github.io/easybuy/product/hoodie01/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

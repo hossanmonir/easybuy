@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>scarf &#8211; EasyShop</title>
+	<atom:link href="https://hossanmonir.github.io/easybuy/product-tag/scarf/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hossanmonir.github.io/easybuy</link>
+	<description>Make your shopping more easier</description>
+	<lastBuildDate>Mon, 16 Jul 2018 12:30:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>SCARF</title>
+		<link>https://hossanmonir.github.io/easybuy/product/scarf-4/</link>
+					<comments>https://hossanmonir.github.io/easybuy/product/scarf-4/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 16 Jul 2018 12:29:57 +0000</pubDate>
+				<guid isPermaLink="false">https://hossanmonir.github.io/easybuy/?post_type=product&#038;p=2766</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://hossanmonir.github.io/easybuy/product/scarf-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SCARF</title>
+		<link>https://hossanmonir.github.io/easybuy/product/scarf-3/</link>
+					<comments>https://hossanmonir.github.io/easybuy/product/scarf-3/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 16 Jul 2018 12:28:20 +0000</pubDate>
+				<guid isPermaLink="false">https://hossanmonir.github.io/easybuy/?post_type=product&#038;p=2763</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://hossanmonir.github.io/easybuy/product/scarf-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SCARF</title>
+		<link>https://hossanmonir.github.io/easybuy/product/scarf-2/</link>
+					<comments>https://hossanmonir.github.io/easybuy/product/scarf-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 16 Jul 2018 12:26:52 +0000</pubDate>
+				<guid isPermaLink="false">https://hossanmonir.github.io/easybuy/?post_type=product&#038;p=2760</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://hossanmonir.github.io/easybuy/product/scarf-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>SCARF</title>
+		<link>https://hossanmonir.github.io/easybuy/product/scarf/</link>
+					<comments>https://hossanmonir.github.io/easybuy/product/scarf/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 16 Jul 2018 12:25:20 +0000</pubDate>
+				<guid isPermaLink="false">https://hossanmonir.github.io/easybuy/?post_type=product&#038;p=2757</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://hossanmonir.github.io/easybuy/product/scarf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
